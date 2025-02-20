@@ -44,7 +44,7 @@ Note:
 
 ## Configuration
   ```bash
-  nano accounts.json
+  nano accounts.json # Linux/macOS
 ```
 - **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
