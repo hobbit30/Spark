@@ -11,6 +11,7 @@
   - Auto Run With Private Proxy - Choose 2
   - Auto Run Without Proxy - Choose 3
   - Auto Connect and Reconnect Websocket
+  - Auto Complete Available Tasks
 
 Note: 
 1. Only running 1 node if run without proxy.
