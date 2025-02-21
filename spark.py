@@ -149,6 +149,7 @@ class Sparkchain:
         )
 
     def print_question(self):
+        self.welcome()
         while True:
             try:
                 print("1. Run With Free Proxy")
